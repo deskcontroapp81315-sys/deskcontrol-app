@@ -1,0 +1,22 @@
+{
+  "device_id": "360 095 655",
+  "username": "",
+  "password": "ypta8nwd",
+  "recent_sessions": {},
+  "relay": "",
+  "settings": {
+    "confirm_connections": true,
+    "remember_recent": true,
+    "notifications": true,
+    "start_with_windows": false
+  },
+  "license_active": false,
+  "license_plan": "Free",
+  "activation_code_hash": "",
+  "known": {
+    "429591157": "192.168.1.122",
+    "922691308": "192.168.1.122",
+    "089694602": "192.168.1.122",
+    "819077603": "192.168.1.122"
+  }
+}

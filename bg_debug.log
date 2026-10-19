@@ -1,0 +1,197 @@
+--- start frozen=False
+bg_data import failed: ModuleNotFoundError("No module named 'bg_data'")
+FALLBACK: using flat blue background
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png not found: account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png not found: account.png
+--- start frozen=False
+icon png not found: contacts.png
+icon png not found: account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png not found: contacts.png
+icon png not found: contacts.png
+icon png not found: account.png
+--- start frozen=False
+icon png not found: contacts.png
+icon png not found: account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png not found: contacts.png
+icon png not found: contacts.png
+icon png not found: account.png
+--- start frozen=False
+icon png not found: contacts.png
+icon png not found: account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png not found: contacts.png
+icon png not found: account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png not found: account.png
+--- start frozen=False
+icon png not found: contacts.png
+icon png not found: account.png
+icon png not found: settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png not found: settings.png
+icon png not found: account.png
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+--- start frozen=False
+--- start frozen=False
+--- start frozen=False
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+--- start frozen=False
+icon png NOT FOUND: contacts.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png | C:\Users\abode\Downloads\مشروع ج\contacts.png | C:\Users\abode\Downloads\مشروع ج\assets\contacts.png
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+icon png NOT FOUND: settings.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png | C:\Users\abode\Downloads\مشروع ج\settings.png | C:\Users\abode\Downloads\مشروع ج\assets\settings.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg_data not used: ModuleNotFoundError("No module named 'bg_data'")
+bg ok from file: C:\Users\abode\Downloads\مشروع ج\assets\connect-background.jpg size=(1264, 846)
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+--- start frozen=False
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png
+bg ok from url: size=(1264, 846)
+icon png NOT FOUND: account.png | tried: C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png | C:\Users\abode\Downloads\مشروع ج\account.png | C:\Users\abode\Downloads\مشروع ج\assets\account.png

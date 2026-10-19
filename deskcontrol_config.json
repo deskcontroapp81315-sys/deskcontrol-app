@@ -1,0 +1,21 @@
+{
+  "device_id": "252 930 908",
+  "username": "",
+  "password": "9k35tx9u",
+  "quality": "High",
+  "theme": "dark",
+  "autostart": false,
+  "sound": true,
+  "license_key": "",
+  "recent_sessions": {},
+  "relay": "",
+  "settings": {
+    "confirm_connections": true,
+    "remember_recent": true,
+    "notifications": true,
+    "start_with_windows": false
+  },
+  "license_active": false,
+  "license_plan": "Free",
+  "activation_code_hash": ""
+}
